@@ -1,0 +1,4 @@
+1. Crée un dépôt GitHub public, envoie-y le CONTENU de ce dossier (index.html, manifest, icônes, .github).
+2. Settings > Pages > Source : "GitHub Actions". Attends 1-2 min.
+3. Sur l'iPhone, ouvre https://TON-PSEUDO.github.io/NOM-DU-DEPOT/ dans SAFARI.
+4. Bouton Partager > "Sur l'écran d'accueil" > Ajouter. L'icône ScanDro apparaît.
